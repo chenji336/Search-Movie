@@ -24,7 +24,6 @@ Page({
       case '即将上映':
         dataUrl = baseUrl + '/v2/movie/coming_soon';
         break;
-        break;
       case '豆瓣Top250':
         dataUrl = baseUrl + '/v2/movie/top250';
         break;
