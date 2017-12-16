@@ -22,7 +22,7 @@
       },
        {
         "pagePath": "pages/movies/movies",
-        "text": "电影",
+        "text": "电影New",
          "iconPath":"images/tab/dianying.png",
         "selectedIconPath":"images/tab/dianying_hl.png"
       }
